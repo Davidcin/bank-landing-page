@@ -1,3 +1,3 @@
 ```
-Frontend Mentor Easybank landing page challange
+Frontend Mentor Bank landing page challange
 ```
